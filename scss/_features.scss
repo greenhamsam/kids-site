@@ -1,7 +1,7 @@
 // Styling for the features section
 section.features {
     .section-heading {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         h2 {
             margin-top: 0;
         }
@@ -15,14 +15,14 @@ section.features {
         margin: 0 auto;
     }
     .device-container {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         @media(min-width: 992px) {
             margin-bottom: 0;
         }
     }
     .feature-item {
         padding-top: 50px;
-        padding-bottom: 50px;
+        padding-bottom: 5px;
         text-align: center;
         h3 {
             font-size: 30px;
